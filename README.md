@@ -2,6 +2,8 @@
 
 *Team Members: Aman Bhargava, Alice Zhou, Adam Carnaffan*
 
+![Title Slide](https://i.imgur.com/vRL3Nop.png)
+
 ## Goal 
 
 We aim to create an audio classification system for various gestures (scratches, taps, swipes, etc.) made on a wooden surface by a user. This will form the basis for a type of natural user interface known as ‘reality user interface’ (hence the name Artificially Intelligent Reality User Interface, or AirUI).
