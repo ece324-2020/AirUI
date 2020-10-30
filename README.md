@@ -23,3 +23,35 @@ Convolutional Neural Networks are a commonly used state-of-the-art method for au
 - MLP will be used in the development stage. 
 - CNN (convolutional layers followed by fully connected layers) will be used in the final stage.
 
+## Results
+
+### Baseline Model
+
+Our baseline models included a multilayer perceptron (ReLU activation, 100 hidden neurons, adam solver) for classifying downsampled energy distributions (20 samples per feature vector). Classes included scratches, taps, and 'noise' (in this case, the audio was gathered from lecture to simulate 'real world' noise).
+
+The results are as follows:
+
+```
+=================================================
+=== RESULTS FOR INITIAL DATASET BASLINE MODEL ===
+=================================================
+
+
+Total Dataset Size: 		258 Samples
+Total Training Set Size: 	193 Samples
+Total Validation Set Size: 	65 Samples
+
+Test Set Confusion Matrix: ['scratch', 'tap', 'silence/rose lecture']
+[[23  1  0]
+ [ 1 16  0]
+ [ 0  1 23]]
+
+Training Set Confusion Matrix: ['scratch', 'tap', 'silence/rose lecture']
+[[61  1  0]
+ [ 0 69  0]
+ [ 0  0 62]]
+
+OVERALL SCORE OF MLP on TEST SET: 	93.84615384615384%
+OVERALL SCORE OF MLP on TRAIN SET: 	99.48186528497409%
+```
+
