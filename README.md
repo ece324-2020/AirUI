@@ -8,13 +8,27 @@
 
 We aim to create an audio classification system for various gestures (scratches, taps, swipes, etc.) made on a wooden surface by a user. This will form the basis for a type of natural user interface known as ‘reality user interface’ (hence the name Artificially Intelligent Reality User Interface, or AirUI).
 
-## Utility
+### Utility
 
 This user interface method would offer an extremely low cost alternative for touch input in computer systems and could help to make technology more accessible, particularly for individuals who have difficulty using conventional user interfaces. 
 
-## Rationale for Neural Network Model
+### Rationale for Neural Network Model
 
 Convolutional Neural Networks are a commonly used state-of-the-art method for audio classification, particularly when combined with time-frequency methods such as the short-time Fourier transform (STFT). 
+
+## Todo List
+
+- [x] [AMAN] Send out ‘pushback’ -- Tuesday 11:59PM
+- [ ] [AMAN] Data collection video -- Wednesday 11:59PM
+- [ ] [ALL] Sending out data collection video & request -- Thursday 11:59PM
+- [ ] [ALICE] Model creation -- Friday 11:59PM
+- [ ] [AMAN] Comment Model -- Sunday 11:59PM
+- [ ] [ADAM] Grid search hyperparameter hunt -- Wednesday November 18 11:59PM
+- [ ] [ALICE] Comment + Proofread hyperparameter hunt -- Friday November 20 11:59PM
+- [ ] [ADAM] Final model testing 💕 -- Monday November 23 11:59PM
+- [ ] [ALICE] Final results presentation -- Monday November 23 11:59PM
+- [ ] [ALL] Complete slides + presentation rehearsal
+
 
 ## Overall Project Architecture
 
