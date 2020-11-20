@@ -1,3 +1,6 @@
 Full_Dataset/*
 env
 Parameter_Search/data/*
+Parameter_Search/log_padded.txt
+Parameter_Search/log_cropped.txt
+Parameter_Search/log_hybrid.txt
