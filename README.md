@@ -23,10 +23,10 @@ Convolutional Neural Networks are a commonly used state-of-the-art method for au
 - [x] [ALL] Sending out data collection video & request -- Thursday 11:59PM
 - [x] [ALICE] Model creation -- Saturday 11:59PM
 - [ ] [AMAN] Comment Model -- Sunday 11:59PM
-- [ ] [ADAM] Grid search hyperparameter hunt -- Wednesday November 18 11:59PM
-- [ ] [ALICE] Comment + Proofread hyperparameter hunt -- Friday November 20 11:59PM
-- [ ] [ADAM] Final model testing 💕 -- Monday November 23 11:59PM
-- [ ] [ALICE] Final results presentation -- Monday November 23 11:59PM
+- [x] [ADAM] Grid search hyperparameter hunt -- Wednesday November 18 11:59PM
+- [x] [ALICE] Comment + Proofread hyperparameter hunt -- Friday November 20 11:59PM
+- [x] [ADAM] Final model testing 💕 -- Monday November 23 11:59PM
+- [x] [ALICE] Final results presentation -- Monday November 23 11:59PM
 - [ ] [ALL] Complete slides + presentation rehearsal
 
 
